@@ -10,5 +10,6 @@
 <br/> <br/>
 
 ## 📍 GitHub Stats Card
-![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=Mellling&include_all_commits=true&show_icons=true&theme=cobalt)
+[![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=Mellling&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/Mellling/github-readme-stats)
