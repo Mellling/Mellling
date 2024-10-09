@@ -10,4 +10,4 @@
 <br/> <br/>
 
 ## 📍 GitHub Stats Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellling&layout=donut&theme=nord&&bg_color=00000000)](https://github.com/Mellling/github-readme-stats) [![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Mellling/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellling&layout=donut&theme=blue_navy&&bg_color=00000000)](https://github.com/Mellling/github-readme-stats) [![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&include_all_commits=true&theme=blue_navy&hide_border=true&count_private=true&&bg_color=00000000)](https://github.com/Mellling/github-readme-stats)
