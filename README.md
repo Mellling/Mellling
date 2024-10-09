@@ -11,3 +11,5 @@
 
 ## 📍 GitHub Stats Card
 [![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Mellling/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellling&theme=nord)](https://github.com/Mellling/github-readme-stats)
