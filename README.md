@@ -10,4 +10,6 @@
 <br/> <br/>
 
 ## 📍 GitHub Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&cache_seconds=1800&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/Mellling/github-readme-stats)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=Mellling&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/Mellling/github-readme-stats)
