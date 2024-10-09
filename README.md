@@ -3,3 +3,8 @@
 ## 🌐 My Website
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://evanescent-field-c88.notion.site/11ae7699000180aaa5e8cf327d178df2?pvs=4)
 <br/> <br/>
+
+## 📮 Contact Me
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">](bluebell1183@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/flamme_1183/)
+<br/> <br/>
