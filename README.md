@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/112a4e89-2d4e-446e-8779-0888d9e1eefd" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/4769d902-01f2-47ec-a652-9918689e4379" /></div>
 
 <!--
 **Mellling/Mellling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
