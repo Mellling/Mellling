@@ -10,6 +10,4 @@
 <br/> <br/>
 
 ## 📍 GitHub Stats Card
-[![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=Mellling&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/Mellling/github-readme-stats)
+[![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Mellling/github-readme-stats)
