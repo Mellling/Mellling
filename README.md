@@ -5,7 +5,7 @@
 <br/> <br/>
 
 ## 🛠️Skill
-<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" />
 <br/> <br/>
 
 ## 📮 Contact Me
