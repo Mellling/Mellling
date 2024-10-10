@@ -4,6 +4,10 @@
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://evanescent-field-c88.notion.site/11ae7699000180aaa5e8cf327d178df2?pvs=4) [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/Mellling)
 <br/> <br/>
 
+## 🛠️Skill
+<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=61DAFB" />
+<br/> <br/>
+
 ## 📮 Contact Me
 <a href="mailto:bluebell1183@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/flamme_1183/)
