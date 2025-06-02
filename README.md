@@ -11,7 +11,7 @@
 >[🀄 배틀장기 | 개발 2인 기획 2인 | #3D #2인_플레이 #장기 #FPS](https://github.com/Mellling/45902_BattleJanggi)
 
 ### ✌️Personal
->[🧩Monument Valley | #3D #착시 #퍼즐](https://github.com/Mellling/Monument_Valley)
+>[🧩 Monument Valley | #3D #착시 #퍼즐](https://github.com/Mellling/Monument_Valley)
 
 <br/> <br/>
 
