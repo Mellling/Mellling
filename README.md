@@ -21,7 +21,7 @@
 
 ## 📮 Contact Me
 <a href="mailto:bluebell1183@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/flamme_1183/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/mellling_gamjaori?igsh=MTlpYmd4b3lpNGVmdA%3D%3D&utm_source=qr)
 <br/> <br/>
 
 ## 📍 Top Langs & GitHub Stats Card
