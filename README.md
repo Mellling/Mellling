@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/4769d902-01f2-47ec-a652-9918689e4379" /></div>  
 
 ## 🌐 My Website 
-[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://evanescent-field-c88.notion.site/11ae7699000180aaa5e8cf327d178df2?pvs=4) [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/Mellling)
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://evanescent-field-c88.notion.site/11ae7699000180aaa5e8cf327d178df2?pvs=4) [<img src="https://img.shields.io/badge/Tistory-E14E00?style=for-the-badge&logo=tistory&logoColor=white">](https://mellscode.tistory.com/) [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/Mellling)
 <br/> <br/>
 
 ## 📹 My Projects
