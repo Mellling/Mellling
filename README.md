@@ -25,5 +25,5 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/mellling_gamjaori?igsh=MTlpYmd4b3lpNGVmdA%3D%3D&utm_source=qr)
 <br/> <br/>
 
-## 📍 Top Langs & GitHub Stats Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellling&layout=donut&theme=buefy&&bg_color=00000000&&icon_color=9face1&&hide_border=true)](https://github.com/Mellling/github-readme-stats) [![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&include_all_commits=true&theme=buefy&&hide_border=true&&count_private=true&&bg_color=00000000)](https://github.com/Mellling/github-readme-stats)
+<!--## 📍 Top Langs & GitHub Stats Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellling&layout=donut&theme=buefy&&bg_color=00000000&&icon_color=9face1&&hide_border=true)](https://github.com/Mellling/github-readme-stats) [![Mellling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellling&include_all_commits=true&theme=buefy&&hide_border=true&&count_private=true&&bg_color=00000000)](https://github.com/Mellling/github-readme-stats)   -->
