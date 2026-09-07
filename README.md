@@ -9,7 +9,7 @@
 >[🗡️ 엑스칼리버를 들고 튀어라! | 개발 4인 기획 4인 | #2D #던전_크롤러 #4인_멀티](https://github.com/Mellling/Excalibur_Project)<br/>
 >[🎶 울려라! 판소리 | 개발 3인 기획 1인 아트 1인 | #2D #판소리 #마이크로게임](https://github.com/Mellling/Pansori)<br/>
 
->[🐍 Ouroboros | 개발 4인 QA 1인 아트 2인 | #3D #PvP #추격액](https://github.com/gulleo-gayu/Ouroboros)<br/>
+>[🐍 Ouroboros | 개발 4인 QA 1인 아트 2인 | #3D #PvP #추격액션](https://github.com/gulleo-gayu/Ouroboros)<br/>
 >[🕵️ 마!피!아! | 개발 3인 QA 1인 | #3D #마피아 #칼전 #멀티](https://github.com/Mellling/Ma-Fi-Ya-)<br/>
 >[🀄 배틀장기 | 개발 2인 기획 2인 | #3D #2인_플레이 #장기 #FPS](https://github.com/Mellling/45902_BattleJanggi)
 
